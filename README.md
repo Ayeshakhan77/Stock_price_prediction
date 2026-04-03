@@ -1,7 +1,6 @@
 # 📈 Stock Price Prediction with LSTM
 
 ![Prediction Chart](prediction_plot.png)  
-*Add your model prediction image above*
 
 ---
 
