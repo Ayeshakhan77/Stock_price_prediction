@@ -98,7 +98,7 @@ The model successfully captured stock movement patterns and generated future pri
 
 ### Actual vs Predicted Stock Price
 
-![Stock Prediction Result](images/stock_prediction_result.png)
+![Stock Prediction Result](prediction_plot.png)
 
 ### Key Results
 
